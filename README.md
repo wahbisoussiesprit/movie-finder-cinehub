@@ -13,6 +13,16 @@
 
 </div>
 
+## 📸 Screenshots
+
+| ![Homepage](Capture%20d'écran%202025-12-01%20123928.png) | ![Movie Cards](Capture%20d'écran%202025-12-01%20123956.png) |
+|:---:|:---:|
+| **Homepage with movie categories** | **Interactive movie cards with hover effects** |
+
+| ![Search Function](Capture%20d'écran%202025-12-01%20124048.png) |
+|:---:|
+| **Search functionality and responsive design** |
+
 ## 📋 Table of Contents
 - [✨ Features](#-features)
 - [🚀 Demo](#-demo)
@@ -20,7 +30,6 @@
 - [📁 Project Structure](#-project-structure)
 - [⚡ Getting Started](#-getting-started)
 - [🎯 Key Features Explained](#-key-features-explained)
-- [📸 Screenshots](#-screenshots)
 - [🤝 Contributing](#-contributing)
 - [📝 License](#-license)
 - [👨‍💻 Author](#-author)
