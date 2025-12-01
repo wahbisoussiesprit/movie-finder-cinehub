@@ -11,7 +11,8 @@
 **This Project is Just For an Frontend internship Role**
 
 </div>
-
+![image](Capture d'écran 2025-12-01 123928.png)
+![image](Capture d'écran 2025-12-01 124048.png)
 ## 📋 Table of Contents
 - [✨ Features](#-features)
 - [🚀 Demo](#-demo)
