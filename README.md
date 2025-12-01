@@ -23,9 +23,6 @@
 |:---:|
 | **Advanced search functionality** |
 
-## 🚀 Live Demo
-
-[Try it Live](https://wahbisoussiesprit.github.io/movie-finder-cinehub/) • [Video Walkthrough](#)
 
 ## ✨ Features
 
