@@ -60,25 +60,6 @@
 | **Git** | Version control | - |
 | **GitHub** | Hosting & deployment | - |
 
-## 📁 Project Structure
-src/
-├── components/ # React Components
-│ ├── Navbar/ # Navigation with glassmorphism
-│ ├── Hero/ # Auto-rotating featured movies
-│ ├── MovieCard/ # Interactive movie display
-│ ├── SearchBar/ # Search with debouncing
-│ ├── CategoryRow/ # Organized movie sections
-│ └── Footer/ # Complete footer
-├── hooks/ # Custom React Hooks
-│ ├── useMovies.js # Movie data management
-│ └── useDebounce.js # Search optimization
-├── utils/ # Utilities & Constants
-│ ├── constants.js # Movie data
-│ ├── helpers.js # Helper functions
-│ └── tmdb.js # Mock API service
-└── styles/ # Global CSS & Variables
-
-
 ## ⚡ Getting Started
 
 ### Prerequisites
