@@ -8,11 +8,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **A Netflix-inspired movie streaming platform built with React to demonstrate modern React frontend development skills.**
-**This Project is Just For an Frontend internship Role**
+
+*This project was created for a frontend internship role to showcase React skills*
 
 </div>
-![image](Capture d'écran 2025-12-01 123928.png)
-![image](Capture d'écran 2025-12-01 124048.png)
+
 ## 📋 Table of Contents
 - [✨ Features](#-features)
 - [🚀 Demo](#-demo)
